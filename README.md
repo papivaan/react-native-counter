@@ -1,4 +1,4 @@
-# Check out [rennehir's](https://github.com/rennehir/ye-olde-auto-counter) project made with React!
+## Check out [rennehir's](https://github.com/rennehir/ye-olde-auto-counter) project made with React!
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
